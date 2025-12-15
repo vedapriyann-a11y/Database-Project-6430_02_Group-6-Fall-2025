@@ -1,0 +1,12 @@
+carrier,carrier_id,route_type
+Academy,1,Commuter
+Coach USA,2,Commuter
+DeCamp,3,Commuter
+Greyhound,4,Intercity
+HCEE - Community,5,Commuter
+Lakeland,6,Commuter
+Martz,7,Commuter
+NJ Transit,8,Commuter
+Peter Pan/Bonanza,9,Intercity
+Trailways,10,Intercity
+TransBridge,11,Commuter
